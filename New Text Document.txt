@@ -1,0 +1,1 @@
+c:/Users/kesar/teja/Scripts/Activate.ps1
